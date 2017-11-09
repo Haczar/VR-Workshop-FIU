@@ -18,6 +18,7 @@ namespace Valve.VR.InteractionSystem
 		public UnityEvent onHandHoverEnd;
 		public UnityEvent onAttachedToHand;
 		public UnityEvent onDetachedFromHand;
+        public UnityEvent idgf;
 
 		//-------------------------------------------------
 		private void OnHandHoverBegin()
